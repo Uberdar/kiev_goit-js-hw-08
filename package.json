@@ -5,7 +5,7 @@
   "homepage": "https://uberdar.github.io/kiev_goit-js-hw-08/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url //Uberdar/kiev_goit-js-hw-08/"
+    "build": "parcel build src/*.html --public-url //uberdar.github.io/kiev_goit-js-hw-08/"
   },
   "repository": {
     "type": "git",
